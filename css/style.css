@@ -1,0 +1,24 @@
+.background {
+  background-color: #f7f7f9;
+  color: black;
+  font-family: 'Inconsolata';
+}
+
+/*This puts margins and padding on boxes that display raw code*/
+.codebox {
+  margin-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.heading {
+  color: grey;
+}
+
+.blocklist li{
+  display: list-item;
+}
+
+.codebox1 {
+   background-color: 
+ }
