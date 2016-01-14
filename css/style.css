@@ -19,6 +19,19 @@
   display: list-item;
 }
 
-.codebox1 {
-   background-color: 
+.codebox1-color {
+   background-color: red;
+   font-size: 20px;
+   color: yellow;
+   text-align: center;
  }
+
+ #logo {
+   display:
+
+ }
+
+.floatclick {
+  color: blue;
+  font-weight: bold;
+}
